@@ -1,0 +1,12 @@
+C:\Users\Luciana\Documents\Projetos\Tnet\Tnet\Tnet.Core\bin\Debug\netcoreapp3.1\Tnet.Core.deps.json
+C:\Users\Luciana\Documents\Projetos\Tnet\Tnet\Tnet.Core\bin\Debug\netcoreapp3.1\Tnet.Core.dll
+C:\Users\Luciana\Documents\Projetos\Tnet\Tnet\Tnet.Core\obj\Debug\netcoreapp3.1\Tnet.Core.AssemblyInfoInputs.cache
+C:\Users\Luciana\Documents\Projetos\Tnet\Tnet\Tnet.Core\obj\Debug\netcoreapp3.1\Tnet.Core.AssemblyInfo.cs
+C:\Users\Luciana\Documents\Projetos\Tnet\Tnet\Tnet.Core\bin\Debug\netcoreapp3.1\Tnet.Core.pdb
+C:\Users\Luciana\Documents\Projetos\Tnet\Tnet\Tnet.Core\obj\Debug\netcoreapp3.1\Tnet.Core.dll
+C:\Users\Luciana\Documents\Projetos\Tnet\Tnet\Tnet.Core\obj\Debug\netcoreapp3.1\Tnet.Core.pdb
+C:\Users\Luciana\Documents\Projetos\Tnet\Tnet\Tnet.Core\bin\Debug\netcoreapp3.1\Tnet.Core.runtimeconfig.json
+C:\Users\Luciana\Documents\Projetos\Tnet\Tnet\Tnet.Core\bin\Debug\netcoreapp3.1\Tnet.Core.runtimeconfig.dev.json
+C:\Users\Luciana\Documents\Projetos\Tnet\Tnet\Tnet.Core\obj\Debug\netcoreapp3.1\Tnet.Core.csproj.CoreCompileInputs.cache
+C:\Users\Luciana\Documents\Projetos\Tnet\Tnet\Tnet.Core\obj\Debug\netcoreapp3.1\Tnet.Core.genruntimeconfig.cache
+C:\Users\Luciana\Documents\Projetos\Tnet\Tnet\Tnet.Core\obj\Debug\netcoreapp3.1\Tnet.Core.csprojAssemblyReference.cache
